@@ -1,0 +1,1 @@
+role_estimate_id,canonical_demand_id,source_channel,source_system,source_record_id,client_name,role_title,primary_skill,career_level,quantity,expected_start_date,projected_staffing_start_date,forecast_window,forecast_basis,forecast_confidence,raw_role_demand,weighted_role_demand,snapshot_date,geography,notes

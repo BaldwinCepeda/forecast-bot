@@ -1,0 +1,2 @@
+role_estimate_id,canonical_demand_id,role_title,primary_skill,career_level,quantity,expected_start_date,confidence_override,geography,notes,created_at,updated_at
+ROLE-DIRECT-1111,DIRECT:1111,Cloud Solution Architect,Azure,Senior,2,2026-10-20,,North America,Example editable estimate,,

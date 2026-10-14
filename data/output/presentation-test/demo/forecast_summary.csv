@@ -1,0 +1,17 @@
+source_channel,forecast_window,primary_skill,career_level,opportunity_count,raw_role_demand,weighted_role_demand
+Direct,31-60 Days,Azure,Mid,1,3.0,0.0
+Direct,31-60 Days,Data & AI,Mid,1,4.0,2.0
+Direct,31-60 Days,Data & AI,Senior,1,2.0,0.0
+Direct,31-60 Days,Workplace,Senior,1,2.0,1.0
+Direct,61-90 Days,Azure,Senior,1,2.0,0.0
+Direct,61-90 Days,Security,Senior,1,2.0,0.4
+Direct,Unknown,Workplace,Mid,1,1.0,0.0
+Indirect,0-30 Days,Data & AI,Mid,1,4.0,3.6
+Indirect,0-30 Days,Security,Mid,1,2.0,0.8
+Indirect,31-60 Days,Azure,Senior,1,3.0,2.0999999999999996
+Indirect,31-60 Days,Data & AI,Senior,1,2.0,1.4
+Indirect,61-90 Days,Azure,Mid,1,2.0,1.8
+Indirect,90+ Days,Business Applications,Mid,1,3.0,1.5
+Indirect,90+ Days,Workplace,Senior,1,1.0,0.2
+Indirect,Past Due,Security,Mid,1,1.0,0.4
+Indirect,Unknown,Security,Senior,1,2.0,0.8

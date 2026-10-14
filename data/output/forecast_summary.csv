@@ -1,0 +1,2 @@
+source_channel,forecast_window,primary_skill,career_level,opportunity_count,raw_role_demand,weighted_role_demand
+Direct,0-30 Days,Azure,Senior,1,2.0,1.0

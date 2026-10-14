@@ -1,0 +1,17 @@
+{
+  "default_mobilization_days": 14,
+  "stale_opportunity_days": 90,
+  "close_plan_windows": {
+    "Next 30 Days": "0-30 Days",
+    "Next 60 Days": "31-60 Days",
+    "90+ Days": "90+ Days"
+  },
+  "confidence_by_status": {
+    "Needs More Information": 0.2,
+    "Technical Solutioning": 0.4,
+    "In Progress": 0.5,
+    "Proposal / SOW Negotiation": 0.7,
+    "Approved": 0.9,
+    "Confirmed": 0.9
+  }
+}

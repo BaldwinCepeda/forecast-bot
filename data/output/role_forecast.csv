@@ -1,0 +1,2 @@
+role_estimate_id,canonical_demand_id,source_channel,source_system,source_record_id,client_name,role_title,primary_skill,career_level,quantity,expected_start_date,projected_staffing_start_date,forecast_window,forecast_basis,forecast_confidence,raw_role_demand,weighted_role_demand,snapshot_date,geography,notes
+ROLE-DIRECT-1111,DIRECT:1111,Direct,Azure DevOps Boards,1111,Distributed Clean Energy (DCE),Cloud Solution Architect,Azure,Senior,2.0,2026-10-20,2026-10-20,0-30 Days,role_estimate.expected_start_date,0.5,2.0,1.0,2026-09-25,North America,Example editable estimate

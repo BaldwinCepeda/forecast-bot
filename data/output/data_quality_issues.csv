@@ -1,0 +1,15 @@
+canonical_demand_id,source_channel,issue_code,issue_description,severity,detected_at_utc
+DIRECT:2222,Direct,TITLE_CLIENT_MISMATCH,The client text at the start of Title differs from Account.,Warning,2026-10-14T14:42:23+00:00
+DIRECT:3333,Direct,TITLE_CLIENT_MISMATCH,The client text at the start of Title differs from Account.,Warning,2026-10-14T14:42:23+00:00
+DIRECT:2222,Direct,MISSING_ROLE_ESTIMATE,Opportunity has no linked role estimate.,Warning,2026-10-14T14:42:23+00:00
+DIRECT:3333,Direct,MISSING_ROLE_ESTIMATE,Opportunity has no linked role estimate.,Warning,2026-10-14T14:42:23+00:00
+INDIRECT:12552111,Indirect,MISSING_ROLE_ESTIMATE,Opportunity has no linked role estimate.,Warning,2026-10-14T14:42:23+00:00
+INDIRECT:12548222,Indirect,MISSING_ROLE_ESTIMATE,Opportunity has no linked role estimate.,Warning,2026-10-14T14:42:23+00:00
+INDIRECT:12563333,Indirect,MISSING_ROLE_ESTIMATE,Opportunity has no linked role estimate.,Warning,2026-10-14T14:42:23+00:00
+INDIRECT:12621444,Indirect,MISSING_ROLE_ESTIMATE,Opportunity has no linked role estimate.,Warning,2026-10-14T14:42:23+00:00
+INDIRECT:12653555,Indirect,MISSING_ROLE_ESTIMATE,Opportunity has no linked role estimate.,Warning,2026-10-14T14:42:23+00:00
+INDIRECT:12668666,Indirect,MISSING_CLOSE_PLAN,Indirect opportunity has no Close Plan.,Warning,2026-10-14T14:42:23+00:00
+INDIRECT:12668666,Indirect,MISSING_FORECAST_INFORMATION,No usable source forecast date or Close Plan is available.,Warning,2026-10-14T14:42:23+00:00
+INDIRECT:12668666,Indirect,MISSING_ROLE_ESTIMATE,Opportunity has no linked role estimate.,Warning,2026-10-14T14:42:23+00:00
+INDIRECT:12530777,Indirect,MISSING_ROLE_ESTIMATE,Opportunity has no linked role estimate.,Warning,2026-10-14T14:42:23+00:00
+INDIRECT:12602888,Indirect,MISSING_ROLE_ESTIMATE,Opportunity has no linked role estimate.,Warning,2026-10-14T14:42:23+00:00

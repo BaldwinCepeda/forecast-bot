@@ -1,0 +1,34 @@
+canonical_demand_id,source_channel,issue_code,issue_description,severity,detected_at_utc
+DIRECT:4901,Direct,MISSING_ROLE_ESTIMATE,Opportunity has no linked role estimate.,Warning,2026-10-14T14:47:34+00:00
+DIRECT:4902,Direct,UNRECOGNIZED_STATUS,Status 'Rework' has no configured confidence.,Warning,2026-10-14T14:47:34+00:00
+DIRECT:4902,Direct,MISSING_ROLE_ESTIMATE,Opportunity has no linked role estimate.,Warning,2026-10-14T14:47:34+00:00
+DIRECT:4903,Direct,MISSING_ROLE_ESTIMATE,Opportunity has no linked role estimate.,Warning,2026-10-14T14:47:34+00:00
+DIRECT:4904,Direct,MISSING_ROLE_ESTIMATE,Opportunity has no linked role estimate.,Warning,2026-10-14T14:47:34+00:00
+DIRECT:4905,Direct,UNRECOGNIZED_STATUS,Status 'Completed' has no configured confidence.,Warning,2026-10-14T14:47:34+00:00
+DIRECT:4905,Direct,MISSING_ROLE_ESTIMATE,Opportunity has no linked role estimate.,Warning,2026-10-14T14:47:34+00:00
+DIRECT:4906,Direct,UNRECOGNIZED_STATUS,Status 'New' has no configured confidence.,Warning,2026-10-14T14:47:34+00:00
+DIRECT:4906,Direct,MISSING_ROLE_ESTIMATE,Opportunity has no linked role estimate.,Warning,2026-10-14T14:47:34+00:00
+DIRECT:4907,Direct,UNRECOGNIZED_STATUS,Status 'On Hold' has no configured confidence.,Warning,2026-10-14T14:47:34+00:00
+DIRECT:4907,Direct,MISSING_FORECAST_INFORMATION,No usable source forecast date or Close Plan is available.,Warning,2026-10-14T14:47:34+00:00
+DIRECT:4907,Direct,MISSING_ROLE_ESTIMATE,Opportunity has no linked role estimate.,Warning,2026-10-14T14:47:34+00:00
+DIRECT:4908,Direct,UNRECOGNIZED_STATUS,Status 'Rework' has no configured confidence.,Warning,2026-10-14T14:47:34+00:00
+DIRECT:4908,Direct,MISSING_ROLE_ESTIMATE,Opportunity has no linked role estimate.,Warning,2026-10-14T14:47:34+00:00
+DIRECT:4909,Direct,MISSING_FORECAST_INFORMATION,No usable source forecast date or Close Plan is available.,Warning,2026-10-14T14:47:34+00:00
+DIRECT:4909,Direct,MISSING_ROLE_ESTIMATE,Opportunity has no linked role estimate.,Warning,2026-10-14T14:47:34+00:00
+DIRECT:4910,Direct,UNRECOGNIZED_STATUS,Status 'Cancelled' has no configured confidence.,Warning,2026-10-14T14:47:34+00:00
+DIRECT:4910,Direct,MISSING_ROLE_ESTIMATE,Opportunity has no linked role estimate.,Warning,2026-10-14T14:47:34+00:00
+INDIRECT:00910001,Indirect,MISSING_ROLE_ESTIMATE,Opportunity has no linked role estimate.,Warning,2026-10-14T14:47:34+00:00
+INDIRECT:00910002,Indirect,MISSING_ROLE_ESTIMATE,Opportunity has no linked role estimate.,Warning,2026-10-14T14:47:34+00:00
+INDIRECT:00910003,Indirect,MISSING_ROLE_ESTIMATE,Opportunity has no linked role estimate.,Warning,2026-10-14T14:47:34+00:00
+INDIRECT:00910004,Indirect,MISSING_ROLE_ESTIMATE,Opportunity has no linked role estimate.,Warning,2026-10-14T14:47:34+00:00
+INDIRECT:00910005,Indirect,MISSING_ROLE_ESTIMATE,Opportunity has no linked role estimate.,Warning,2026-10-14T14:47:34+00:00
+INDIRECT:00910006,Indirect,MISSING_CLOSE_PLAN,Indirect opportunity has no Close Plan.,Warning,2026-10-14T14:47:34+00:00
+INDIRECT:00910006,Indirect,MISSING_FORECAST_INFORMATION,No usable source forecast date or Close Plan is available.,Warning,2026-10-14T14:47:34+00:00
+INDIRECT:00910006,Indirect,MISSING_ROLE_ESTIMATE,Opportunity has no linked role estimate.,Warning,2026-10-14T14:47:34+00:00
+INDIRECT:00910007,Indirect,MISSING_ROLE_ESTIMATE,Opportunity has no linked role estimate.,Warning,2026-10-14T14:47:34+00:00
+INDIRECT:00910007,Indirect,STALE_OPPORTUNITY,No source activity in more than 90 days.,Warning,2026-10-14T14:47:34+00:00
+INDIRECT:00910008,Indirect,MISSING_ROLE_ESTIMATE,Opportunity has no linked role estimate.,Warning,2026-10-14T14:47:34+00:00
+INDIRECT:00910009,Indirect,MISSING_ROLE_ESTIMATE,Opportunity has no linked role estimate.,Warning,2026-10-14T14:47:34+00:00
+INDIRECT:00910010,Indirect,UNRECOGNIZED_CLOSE_PLAN,Close Plan 'Later this year' has no configured forecast window.,Warning,2026-10-14T14:47:34+00:00
+INDIRECT:00910010,Indirect,MISSING_FORECAST_INFORMATION,No usable source forecast date or Close Plan is available.,Warning,2026-10-14T14:47:34+00:00
+INDIRECT:00910010,Indirect,MISSING_ROLE_ESTIMATE,Opportunity has no linked role estimate.,Warning,2026-10-14T14:47:34+00:00

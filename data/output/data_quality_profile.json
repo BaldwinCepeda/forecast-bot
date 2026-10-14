@@ -1,0 +1,64 @@
+{
+  "generated_at_utc": "2026-09-21T16:20:40+00:00",
+  "record_count": 11,
+  "source_counts": {
+    "Direct": 3,
+    "Indirect": 8
+  },
+  "unique_canonical_id_count": 11,
+  "duplicate_canonical_id_count": 0,
+  "records_with_quality_flags": 3,
+  "quality_issue_counts": {
+    "client_title_mismatch_review": 2,
+    "missing_close_plan": 1
+  },
+  "missing_value_counts": {
+    "canonical_demand_id": 0,
+    "source_system": 0,
+    "source_channel": 0,
+    "source_record_id": 0,
+    "opportunity_reference": 0,
+    "record_type": 0,
+    "client_name": 0,
+    "client_name_key": 0,
+    "description": 0,
+    "owner_name": 0,
+    "owner_email": 8,
+    "status_code": 3,
+    "status_name": 0,
+    "opportunity_stage": 3,
+    "forecast_window_code": 3,
+    "forecast_window_lower_days": 4,
+    "forecast_window_upper_days": 5,
+    "solution_due_at": 8,
+    "estimated_close_at": 8,
+    "created_at": 8,
+    "modified_at": 3,
+    "industry_group": 8,
+    "solution_area": 8,
+    "support_requested": 8,
+    "requested_by_email": 8
+  },
+  "status_distribution": {
+    "In Progress": 2,
+    "Needs More Information": 1,
+    "Proposal / Sow Negotiation": 2,
+    "Technical Solutioning": 6
+  },
+  "forecast_window_distribution": {
+    "DAYS_90_PLUS": 1,
+    "NEXT_30_DAYS": 2,
+    "NEXT_60_DAYS": 4,
+    "NOT_PROVIDED": 3,
+    "UNSPECIFIED": 1
+  },
+  "opportunity_stage_distribution": {
+    "NOT_PROVIDED": 3,
+    "Stage 0": 4,
+    "Stage 1": 2,
+    "Stage 2B": 1,
+    "Stage 3B": 1
+  },
+  "activity_date_min": "2026-07-24T03:50",
+  "activity_date_max": "2026-09-16T06:46"
+}
